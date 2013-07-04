@@ -13,11 +13,11 @@ A copy of the license is included in the section entitled "GNU
 Free Documentation License".
 
 DISCLAIMER: The author takes no responsibility of how anyone else may
-use this software. It is inteded as a proof of concept for educational
+use this software. It is intended as a proof of concept for educational
 purposes ONLY.
 
 NOTES:
-PoC for facial detect and upload to Picasa code
+PoC for facial detect and upload to Picasa account
 Some things are hard coded because of limitations in modules
 e.g. SimpleCV doesn't allow anything but literal strings
 ImportNot everything will be checked for exceptions
