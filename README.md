@@ -4,13 +4,22 @@ facerecog
 Proof of Concept Face Recognition in the Cloud
 
 LICENSING:
-Copyright (C)  2013  DENNIS CHOW dchow[AT]xtecsystems.com.
-Permission is granted to copy, distribute and/or modify this document
-under the terms of the GNU Free Documentation License, Version 3
-or any later version published by the Free Software Foundation;
-with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.
-A copy of the license is included in the section entitled "GNU
-Free Documentation License".
+FaceRecog - Proof of Concept Face Recognition in the Cloud using Picasa and SkyBiometry
+
+Copyright (C) 2013  Dennis Chow dchow[AT]xtecsystems.com.
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software Foundation,
+Inc., 51 Franklin Street, Fifth Floor, Boston, MA 02110-1301  USA
 
 DISCLAIMER: The author takes no responsibility of how anyone else may
 use this software. It is intended as a proof of concept for educational
